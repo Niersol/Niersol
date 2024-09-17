@@ -8,6 +8,7 @@ Niersol is at the forefront of delivering innovative digital solutions. We speci
 - **API Integrations**: Seamlessly connecting applications with various third-party services such as Gmail and Calendar.
 - **Custom Web Applications**: Developing tailored web solutions using Django, PostgreSQL, and Docker.
 - **Real-Time Communication**: Implementing WebSockets and REST APIs for real-time data exchange and interactions.
+- **Mail Bot**: Creating a sophisticated mail bot that retrieves emails, displays them in an inbox, and allows users to reply using AI.
 
 ## What We Do
 
@@ -18,6 +19,7 @@ At Niersol, we are dedicated to transforming businesses through technology. Our 
 - **AI Chatbot**: Explore our advanced chatbot solutions that offer personalized interactions and integrate seamlessly with your existing systems.
 - **API Integration Services**: Discover how we connect applications with services like Gmail and Calendar to streamline workflows.
 - **Django Applications**: Check out our custom web applications built with Django and PostgreSQL, tailored to meet your unique business needs.
+- **Mail Bot**: Experience our mail bot that not only shows emails in a user-friendly inbox but also uses AI to provide intelligent responses and replies. This project enhances email management and interaction with automated assistance.
 
 ## Get in Touch
 
@@ -26,6 +28,6 @@ We are always open to collaboration and new opportunities. Reach out to us to di
 - **Website**: [niersol.com](https://niersol.com)
 - **Email**: contact@niersol.com
 
-Feel free to explore our repositories and learn more about our projects and contributions. 
+Feel free to explore our repositories and learn more about our projects and contributions.
 
 Thank you for visiting our GitHub profile!
